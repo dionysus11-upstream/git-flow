@@ -9,3 +9,4 @@ update msg
 update ulsan
 update papa
 update yoon
+update yoon12
