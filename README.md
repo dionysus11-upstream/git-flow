@@ -10,3 +10,4 @@ update ulsan
 update papa
 update yoon
 update yoon12
+update josungmo
